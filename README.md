@@ -5,19 +5,10 @@
 </div>
 <div align="center">
     <a href="https://open.spotify.com/user/31mmtfl5onh3gjkzcjblg4gu7lpi" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.gg/quarkdev" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.gg/berlindev" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiocumm&label=Profile%20views&color=0e75b6&style=flat" alt="kiocumm" /> </p>
-
-- 🔭 I’m currently working on **Discord Developer**
-
-- 💬 Ask me about **Kod**
-
-- 📫 How to reach me **quarkdev.com.tr**
-
-- 📄 Know about my experiences [Discord Bot's](Discord Bot's)
-
 
 
 <h3 align="left">Languages and Tools:</h3>
