@@ -1,21 +1,56 @@
-![MasterHead](https://t4.ftcdn.net/jpg/08/50/30/01/360_F_850300178_2R0d9z8EiG6hN8Yj5QaBEYJAEVFflJly.jpg)
-<h1 align="center">Hi 👋, I'm kiochii</h1>
-<h3 align="center">Ambitious and Powerful Developer in Turkey</h3>
+# <img src="https://github.com/ArviSlayer/ArviSlayer/assets/69751083/a2d2a87d-6683-4505-852f-42607bc76907" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF6AAA00&vCenter=false&multiline=true&width=435&height=30&lines=Different+ideas,+same+codes."><img align="right" width="30%" src="https://count.getloli.com/get/@:arviisoft?theme=asoul">
+
 <div align="center">
-</div>
-<div align="center">
-    <a href="https://open.spotify.com/user/31mmtfl5onh3gjkzcjblg4gu7lpi" target="_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-  <a href="https://discord.gg/berlindev" target="_blank"><img src="https://img.shields.io/badge/Discord-Server-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
+<img src="https://github.com/user-attachments/assets/9627432c-0faf-4375-9704-02b1e88c994e" width="90%"></div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiocumm&label=Profile%20views&color=0e75b6&style=flat" alt="kiocumm" /> </p>
+#
+
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/54550ff8-426f-48ca-bbfa-27a076fba693">
+<div align="left" width="100%">
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://middlemanapp.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://discord.com/users/1288488138808885289" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://www.instagram.com/kiochiix/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.twitter.com/kiochiix/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Twitter%20(X)%20-030303.svg?&style=for-the-badge&logo=x&logoColor=white"></a><p>
+<p align="center">
+<a href="https://wa.me/05512345827" target"blank_"><img width="18%" src="https://img.shields.io/badge/WhatsApp%20-030303.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+<a href="https://codearmy.web/" target"blank_"><img width="13%" src="https://img.shields.io/badge/Gmail%20-030303.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a><p>
+<a href="https://www.youtube.com/@kiochiix" target"blank_"><img width="14%" src="https://img.shields.io/badge/Youtube%20-030303.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiocumm&show_icons=true&locale=en&layout=compact" alt="kiocumm" /></p>
+#
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiocumm&show_icons=true&locale=en" alt="kiocumm" /></p>
+### 💖 HAKKIMDA
+<samp>
+・ 15 yaşındayım. 3 yıldır yazılıma uğraşıyorum. 6 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum.<br>
+ <br> <br>
+</samp>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiocumm&" alt="kiocumm" /></p>
+#
+
+<img width="30%" align="left" src="https://github.com/user-attachments/assets/3daca17a-6b85-4c2d-939f-496811ef262a">
+<div align="right" width="100%">
+
+
+### 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
+<p>
+<img width="65%" align="right" src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,go,mysql,mongodb&perline=7"><br></br>
+	</p>
+
+<p align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviisoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+	</p>
+<img width="30%" align="right" src="https://github.com/user-attachments/assets/b1ba92de-e57a-4367-bab0-5b8e2bea483c">
+<div align="left" width="100%">
+
+#
+
+### 📊 İSTATİSTİKLERİM
+ <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=arviisoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false"/>
+ 
+ <img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arviisoft&theme=dark&hide_border=true"/>
+
+#
+
+### 🎶 GEL BERABER DİNLEYELİM
+ <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ff00&bar_color_cover=false"/>
