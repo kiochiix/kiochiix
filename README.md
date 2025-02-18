@@ -19,8 +19,6 @@
 
 #
 
-<img width="30%" align="left" src="https://github.com/user-attachments/assets/3daca17a-6b85-4c2d-939f-496811ef262a">
-<div align="right" width="100%">
 
 
 ### 👨🏻‍💻 KULLANDIĞIM DİLLER/TEKNOLOJİLER
@@ -31,8 +29,6 @@
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviisoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 	</p>
-<img width="30%" align="right" src="https://github.com/user-attachments/assets/b1ba92de-e57a-4367-bab0-5b8e2bea483c">
-<div align="left" width="100%">
 
 #
 
