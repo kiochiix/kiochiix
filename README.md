@@ -25,8 +25,3 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviisoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 	</p>
 
-
-#
-
-### 🎶 GEL BERABER DİNLEYELİM
- <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31faey2jxwiym4rahbk3nhvc64fe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00ff00&bar_color_cover=false"/>
