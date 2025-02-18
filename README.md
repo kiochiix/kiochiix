@@ -1,10 +1,8 @@
 
-
 <p align="center">
 <a href="https://discord.com/users/1259548821231501413" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.instagram.com/kiochiix/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.twitter.com/kiochiix/" target"blank_"><img width="18%" src="https://img.shields.io/badge/Twitter%20(X)%20-030303.svg?&style=for-the-badge&logo=x&logoColor=white"></a><p>
-<a href="https://tasarimland.com/" target"blank_"><img width="13%" src="https://img.shields.io/badge/Gmail%20-030303.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a><p>
 <a href="https://www.youtube.com/@kiochiix" target"blank_"><img width="14%" src="https://img.shields.io/badge/Youtube%20-030303.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 #
