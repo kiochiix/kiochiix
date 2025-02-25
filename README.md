@@ -8,7 +8,7 @@
 
 ### 💖 HAKKIMDA
 <samp>
-・ 15 yaşındayım. 3 yıldır yazılıma uğraşıyorum. 5 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum.<br>
+・ 16 yaşındayım. 3 yıldır yazılıma uğraşıyorum. 5 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum.<br>
  <br> <br>
 </samp>
 
