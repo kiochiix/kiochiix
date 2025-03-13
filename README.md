@@ -1,9 +1,3 @@
-
-<p align="center">
-<a href="https://discord.com/users/1259548821231501413" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.instagram.com/kiochiix/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.youtube.com/@kiochiix" target"blank_"><img width="14%" src="https://img.shields.io/badge/Youtube%20-030303.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-
 #
 <h1 align="center"> </🌼Kiochi>  
  <img href="https://discord.com/users/1259548821231501413" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Serif&pause=1000&color=376074&background=69FF2000&center=true&vCenter=true&width=435&lines=For+%F0%9F%93%A9+Support+And+%F0%9F%93%9E+Communication;Contact+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+fivesobes" alt="ForgeDev Was Here" />
@@ -14,13 +8,7 @@
   <a align="center" href="https://www.github.com/kiochiix" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
  <a align="center" href="https://www.instagram.com/kiochix" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br> </br>
-<a href="https://www.buymeacoffee.com/beykant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
 
-### 💖 HAKKIMDA
-<samp>
-・ 16 yaşındayım. 3 yıldır yazılıma uğraşıyorum. 5 yıldır sanaldayım, bunun getirdiği tecrübeler gayesinde elimden gelenin en iyisini yapmaya çalışıyorum.<br>
- <br> <br>
-</samp>
 
 #
 
@@ -38,4 +26,3 @@
 <p align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arviisoft&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 	</p>
-
